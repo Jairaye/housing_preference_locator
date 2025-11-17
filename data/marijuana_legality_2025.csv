@@ -1,0 +1,52 @@
+state_code,state_name,marijuana_status,recreational_legal,medical_legal,cbd_only,permissiveness_score
+AL,Alabama,Medical Only,No,Yes,No,3
+AK,Alaska,Fully Legal,Yes,Yes,No,5
+AZ,Arizona,Fully Legal,Yes,Yes,No,5
+AR,Arkansas,Medical Only,No,Yes,No,3
+CA,California,Fully Legal,Yes,Yes,No,5
+CO,Colorado,Fully Legal,Yes,Yes,No,5
+CT,Connecticut,Fully Legal,Yes,Yes,No,5
+DE,Delaware,Fully Legal,Yes,Yes,No,5
+FL,Florida,Medical Only,No,Yes,No,3
+GA,Georgia,CBD Only,No,No,Yes,1
+HI,Hawaii,Medical Only,No,Yes,No,3
+ID,Idaho,Fully Illegal,No,No,No,0
+IL,Illinois,Fully Legal,Yes,Yes,No,5
+IN,Indiana,CBD Only,No,No,Yes,1
+IA,Iowa,CBD Only,No,No,Yes,1
+KS,Kansas,Fully Illegal,No,No,No,0
+KY,Kentucky,Medical Only,No,Yes,No,3
+LA,Louisiana,Medical Only,No,Yes,No,3
+ME,Maine,Fully Legal,Yes,Yes,No,5
+MD,Maryland,Fully Legal,Yes,Yes,No,5
+MA,Massachusetts,Fully Legal,Yes,Yes,No,5
+MI,Michigan,Fully Legal,Yes,Yes,No,5
+MN,Minnesota,Fully Legal,Yes,Yes,No,5
+MS,Mississippi,Medical Only,No,Yes,No,3
+MO,Missouri,Fully Legal,Yes,Yes,No,5
+MT,Montana,Fully Legal,Yes,Yes,No,5
+NE,Nebraska,Decriminalized,No,No,No,2
+NV,Nevada,Fully Legal,Yes,Yes,No,5
+NH,New Hampshire,Medical Only,No,Yes,No,3
+NJ,New Jersey,Fully Legal,Yes,Yes,No,5
+NM,New Mexico,Fully Legal,Yes,Yes,No,5
+NY,New York,Fully Legal,Yes,Yes,No,5
+NC,North Carolina,Decriminalized,No,No,No,2
+ND,North Dakota,Medical Only,No,Yes,No,3
+OH,Ohio,Fully Legal,Yes,Yes,No,5
+OK,Oklahoma,Medical Only,No,Yes,No,3
+OR,Oregon,Fully Legal,Yes,Yes,No,5
+PA,Pennsylvania,Medical Only,No,Yes,No,3
+RI,Rhode Island,Fully Legal,Yes,Yes,No,5
+SC,South Carolina,Fully Illegal,No,No,No,0
+SD,South Dakota,Medical Only,No,Yes,No,3
+TN,Tennessee,CBD Only,No,No,Yes,1
+TX,Texas,CBD Only,No,No,Yes,1
+UT,Utah,Medical Only,No,Yes,No,3
+VT,Vermont,Fully Legal,Yes,Yes,No,5
+VA,Virginia,Fully Legal,Yes,Yes,No,5
+WA,Washington,Fully Legal,Yes,Yes,No,5
+WV,West Virginia,Medical Only,No,Yes,No,3
+WI,Wisconsin,CBD Only,No,No,Yes,1
+WY,Wyoming,Fully Illegal,No,No,No,0
+DC,District of Columbia,Fully Legal,Yes,Yes,No,5

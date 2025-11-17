@@ -1,0 +1,52 @@
+state_code,state_name,exotic_animal_rating,exotic_notes,allows_primates,allows_big_cats,allows_bears,allows_reptiles
+AL,Alabama,Moderate,Permits required for most dangerous animals,No,Limited,No,Yes
+AK,Alaska,Restrictive,Very limited species allowed - clean list approach,No,No,No,Limited
+AZ,Arizona,Restrictive,New 2021 licensing requirements,No,No,No,Yes
+AR,Arkansas,Moderate,Can own up to 6 of certain species,Limited,No,Limited,Yes
+CA,California,Very Restrictive,Strict bans on most exotic animals,No,No,No,Limited
+CO,Colorado,Restrictive,Permits required for most exotics,No,No,No,Yes
+CT,Connecticut,Very Restrictive,Strict laws post-2009 incident,Limited,No,No,Limited
+DE,Delaware,Permissive,Most exotics allowed with permit,Yes,Yes,Limited,Yes
+FL,Florida,Moderate,Permits required; specific caging rules,Limited,Limited,Limited,Yes
+GA,Georgia,Permissive,Less restrictive than most states,Limited,Limited,Limited,Yes
+HI,Hawaii,Very Restrictive,Most restrictive state - ecological concerns,No,No,No,Very Limited
+ID,Idaho,Moderate,Permits required for wildlife,Limited,No,Limited,Yes
+IL,Illinois,Restrictive,Dangerous animals require permits,No,No,No,Yes
+IN,Indiana,Moderate,Tiered permit system,Limited,Limited,Limited,Yes
+IA,Iowa,Restrictive,Dangerous animals prohibited,No,No,No,Yes
+KS,Kansas,Restrictive,Dangerous regulated animals banned,No,No,No,Yes
+KY,Kentucky,Moderate,Inherently dangerous animals regulated,Limited,No,No,Yes
+LA,Louisiana,Permissive,Few restrictions on exotics,Yes,Limited,Limited,Yes
+ME,Maine,Very Restrictive,Cannot own or process exotic wildlife,No,No,No,Limited
+MD,Maryland,Very Restrictive,Only research/special permits,No,No,No,Limited
+MA,Massachusetts,Very Restrictive,Wild animals as pets prohibited,No,No,No,Limited
+MI,Michigan,Restrictive,Non-domestic North American animals banned,No,No,No,Yes
+MN,Minnesota,Moderate,Regulated species list,Limited,No,No,Yes
+MS,Mississippi,Permissive,Less restrictive laws,Limited,Limited,Limited,Yes
+MO,Missouri,Permissive,Fewer restrictions than most states,Yes,Limited,Limited,Yes
+MT,Montana,Moderate,Alternative livestock definition,Limited,No,Limited,Yes
+NE,Nebraska,Restrictive,Dangerous animals banned,No,No,No,Yes
+NV,Nevada,Permissive,Many exotics allowed,Yes,Yes,Limited,Yes
+NH,New Hampshire,Permissive,Many exotic pets allowed,Limited,Limited,Limited,Yes
+NJ,New Jersey,Restrictive,11 permit types; most exotics banned,No,No,No,Limited
+NM,New Mexico,Moderate,Some dangerous animals banned,Limited,No,No,Yes
+NY,New York,Restrictive,Permits required for most exotics,No,No,No,Limited
+NC,North Carolina,Permissive,County-level regulation,Yes,Yes,Yes,Yes
+ND,North Dakota,Moderate,Permits required,Limited,No,No,Yes
+OH,Ohio,Restrictive,Strict laws post-2011 incident,No,No,No,Yes
+OK,Oklahoma,Permissive,Fewer restrictions,Limited,Limited,Limited,Yes
+OR,Oregon,Moderate,Permit system in place,Limited,No,No,Yes
+PA,Pennsylvania,Moderate,Permits for dangerous animals,Limited,Limited,Limited,Yes
+RI,Rhode Island,Restrictive,Most exotics require permits,No,No,No,Limited
+SC,South Carolina,Moderate,Some dangerous animals banned,Yes,No,No,Yes
+SD,South Dakota,Moderate,Permits required,Limited,Limited,Limited,Yes
+TN,Tennessee,Moderate,Class I-III permit system,Limited,Limited,Limited,Yes
+TX,Texas,Permissive,County regulations vary,Yes,Yes,Yes,Yes
+UT,Utah,Moderate,Permits required for exotics,Limited,No,Limited,Yes
+VT,Vermont,Restrictive,Most exotics banned,No,No,No,Limited
+VA,Virginia,Moderate,Permits required for dangerous animals,Limited,No,No,Yes
+WA,Washington,Restrictive,Dangerous wild animals banned,No,No,No,Yes
+WV,West Virginia,Permissive,Few restrictions,Yes,Limited,Limited,Yes
+WI,Wisconsin,Permissive,Lacks comprehensive laws,Yes,Yes,Yes,Yes
+WY,Wyoming,Moderate,Permits required for exotics,Limited,No,No,Yes
+DC,District of Columbia,Very Restrictive,Wild animals banned,No,No,No,No

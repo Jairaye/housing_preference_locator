@@ -1,0 +1,51 @@
+state_code,state_name,gun_law_grade,gun_death_rate,notes
+AL,Alabama,F,23.6,Permitless carry
+AK,Alaska,F,24.5,Permitless carry
+AZ,Arizona,F,18.0,Permitless carry
+AR,Arkansas,F,23.3,Weakest laws per scorecard
+CA,California,A,9.0,Strongest laws nationally
+CO,Colorado,B,15.4,Universal background checks
+CT,Connecticut,A-,6.7,Strong assault weapons ban
+DE,Delaware,B+,13.1,New handgun permit law 2024
+FL,Florida,C-,14.4,Some regulations remain
+GA,Georgia,F,19.1,Permitless carry
+HI,Hawaii,A,4.8,Strong licensing requirements
+ID,Idaho,F,16.3,Permitless carry
+IL,Illinois,A-,14.1,FOID card system
+IN,Indiana,F,16.7,Permitless carry
+IA,Iowa,F,11.2,Permitless carry
+KS,Kansas,F,16.8,Permitless carry
+KY,Kentucky,F,19.4,Permitless carry
+LA,Louisiana,F,28.2,New permitless carry 2024
+ME,Maine,C+,11.0,Major improvement 2024
+MD,Maryland,A-,13.5,Strong handgun licensing
+MA,Massachusetts,A+,3.7,Lowest death rate nationally
+MI,Michigan,B+,14.6,Recent improvements
+MN,Minnesota,B,10.6,Universal background checks
+MS,Mississippi,F,29.4,Highest death rate nationally
+MO,Missouri,F,23.9,Permitless carry
+MT,Montana,F,23.1,Permitless carry
+NE,Nebraska,F,10.5,Permitless carry
+NV,Nevada,B-,17.4,Universal background checks
+NH,New Hampshire,F,9.3,Permitless carry
+NJ,New Jersey,A,5.2,Comprehensive regulations
+NM,New Mexico,C+,22.7,Recent improvements
+NY,New York,A-,5.4,SAFE Act
+NC,North Carolina,D,16.2,Repealed pistol permit 2023
+ND,North Dakota,F,13.0,Permitless carry
+OH,Ohio,F,14.8,Permitless carry
+OK,Oklahoma,F,20.7,Permitless carry
+OR,Oregon,B,13.0,Strong background checks
+PA,Pennsylvania,C,14.4,Mixed regulations
+RI,Rhode Island,B+,5.1,Strong regulations
+SC,South Carolina,F,21.5,New permitless carry 2024
+SD,South Dakota,F,13.7,Permitless carry
+TN,Tennessee,F,20.6,Permitless carry
+TX,Texas,F,15.6,Permitless carry
+UT,Utah,F,13.6,Permitless carry
+VT,Vermont,D,11.6,No permit required
+VA,Virginia,B+,13.6,Recent improvements
+WA,Washington,A-,10.9,Comprehensive regulations
+WV,West Virginia,F,17.8,Permitless carry
+WI,Wisconsin,C,11.9,Some requirements remain
+WY,Wyoming,F,26.1,Weakest laws per scorecard
