@@ -1,0 +1,10 @@
+# Create .streamlit folder
+mkdir .streamlit
+
+# Create config file specifying Python 3.11
+echo "[runner]`npythonVersion = `"3.11`"" > .streamlit/config.toml
+
+# Commit and push
+git add .streamlit/config.toml
+git commit -m "Specify Python 3.11 for compatibility"
+git push
